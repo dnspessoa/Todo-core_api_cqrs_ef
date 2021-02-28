@@ -1,0 +1,12 @@
+C:\dev-core\Todo.core_api_cqrs_ef\Todo.Domain\bin\Debug\net5.0\Todo.Domain.deps.json
+C:\dev-core\Todo.core_api_cqrs_ef\Todo.Domain\bin\Debug\net5.0\Todo.Domain.dll
+C:\dev-core\Todo.core_api_cqrs_ef\Todo.Domain\bin\Debug\net5.0\ref\Todo.Domain.dll
+C:\dev-core\Todo.core_api_cqrs_ef\Todo.Domain\bin\Debug\net5.0\Todo.Domain.pdb
+C:\dev-core\Todo.core_api_cqrs_ef\Todo.Domain\obj\Debug\net5.0\Todo.Domain.csprojAssemblyReference.cache
+C:\dev-core\Todo.core_api_cqrs_ef\Todo.Domain\obj\Debug\net5.0\Todo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev-core\Todo.core_api_cqrs_ef\Todo.Domain\obj\Debug\net5.0\Todo.Domain.AssemblyInfoInputs.cache
+C:\dev-core\Todo.core_api_cqrs_ef\Todo.Domain\obj\Debug\net5.0\Todo.Domain.AssemblyInfo.cs
+C:\dev-core\Todo.core_api_cqrs_ef\Todo.Domain\obj\Debug\net5.0\Todo.Domain.csproj.CoreCompileInputs.cache
+C:\dev-core\Todo.core_api_cqrs_ef\Todo.Domain\obj\Debug\net5.0\Todo.Domain.dll
+C:\dev-core\Todo.core_api_cqrs_ef\Todo.Domain\obj\Debug\net5.0\ref\Todo.Domain.dll
+C:\dev-core\Todo.core_api_cqrs_ef\Todo.Domain\obj\Debug\net5.0\Todo.Domain.pdb
